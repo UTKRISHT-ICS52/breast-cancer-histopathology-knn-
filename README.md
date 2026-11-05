@@ -245,9 +245,9 @@ The experiment also creates a foundation for comparing traditional Machine Learn
 B.Tech – Computer Science and Engineering  
 Research & Development | Machine Learning | Deep Learning | IoT
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/UTKRISHT-ICS52
 
-LinkedIn: https://www.linkedin.com/
+LinkedIn: www.linkedin.com/in/utkrisht-patel2007
 
 ---
 
