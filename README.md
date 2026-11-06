@@ -242,7 +242,7 @@ The experiment also creates a foundation for comparing traditional Machine Learn
 
 **Utkrisht Patel**
 
-B.Tech – Computer Science and Engineering  
+M.Tech – Computer Science and Engineering  
 Research & Development | Machine Learning | Deep Learning | IoT
 
 GitHub: https://github.com/UTKRISHT-ICS52
