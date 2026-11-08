@@ -163,7 +163,7 @@ Breast-Cancer-Classification-KNN/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Breast-Cancer-Classification-KNN.git
+git clone https://github.com/UTKRISHT-ICS52/Breast-Cancer-Classification-KNN.git
 ```
 
 ### 2. Navigate to the Project Directory
